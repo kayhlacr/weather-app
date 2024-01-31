@@ -1,0 +1,26 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #bbd4ce;
+  margin: 0;
+  padding: 20px;
+}
+
+h2 {
+  color: #679186;
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#loading {
+  color: #264e70;
+  display: flex;
+  justify-content: center;
+  font-size: 1rem;
+}
